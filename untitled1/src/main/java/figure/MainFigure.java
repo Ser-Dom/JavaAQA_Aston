@@ -1,6 +1,6 @@
 package figure;
 
-public class mainFigure {
+public class MainFigure {
     public static void main(String[] args) {
         Circle circle = new Circle(5, "Red", "Black");
         Rectangle rectangle = new Rectangle(4, 6, "Green", "Blue");
